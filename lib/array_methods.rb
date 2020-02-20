@@ -4,7 +4,7 @@ counter = 0
       
               if array[counter] == value_to_find
                 return counter 
-                
+              end
       
       
       counter += 1 
